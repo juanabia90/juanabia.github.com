@@ -55,8 +55,8 @@ table {
 
 body {
 	/*http://wallup.net/wp-content/uploads/2016/01/66369-space_art-polyscape.jpg*/
-	/*http://hdcoolwallpapers.com/wp-content/uploads/2015/01/HD-3D-Abstract-Wallpapers-602.jpg*/
-  background: url(https://static.pexels.com/photos/4827/nature-forest-trees-fog.jpeg) no-repeat fixed top;
+	/*https://static.pexels.com/photos/4827/nature-forest-trees-fog.jpeg*/
+  background: url(http://hdcoolwallpapers.com/wp-content/uploads/2015/01/HD-3D-Abstract-Wallpapers-602.jpg) no-repeat fixed top;
   background-size: cover;
   float: none;
 }
